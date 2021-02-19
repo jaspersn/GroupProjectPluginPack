@@ -1,0 +1,4 @@
+name: GPPP
+version: ${project.version}
+main: com.group3.gppp.GPPP
+authors: [ Jasper, Zane, Ketan, Ayemyat ]
